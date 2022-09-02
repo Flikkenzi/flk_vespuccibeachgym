@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>map1</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_sports</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>hei_vb_34_strm_1</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>venice_metadata_005_strm</Item>
+        <Item>v_traffic_lights</Item>
+        <Item>v_bins</Item>
+        <Item>v_seating_tables</Item>
+        <Item>v_construction</Item>
+        <Item>v_sports</Item>
+        <Item>v_utility</Item>
+        <Item>v_ext_veg</Item>
+        <Item>v_fences_2</Item>
+        <Item>v_rooftop</Item>
+        <Item>v_office</Item>
+        <Item>v_potted</Item>
+        <Item>v_signs</Item>
+        <Item>v_garden</Item>
+        <Item>v_minigame</Item>
+        <Item>v_bar</Item>
+        <Item>v_fastfood</Item>
+        <Item>v_electrical</Item>
+        <Item>v_rubbish</Item>
+        <Item>v_fences</Item>
+        <Item>v_bush</Item>
+        <Item>lev_des</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
